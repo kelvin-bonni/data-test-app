@@ -6,7 +6,7 @@ Kindly follow these instructions to set up and run this application on your loca
 
 ### Installation
 
-1. Download and install the latest version Google Chrome [here](https://www.google.com/chrome)
+1. Download and install the latest version of Google Chrome [here](https://www.google.com/chrome)
 
 2. Download and install the Java 8 SDK [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
@@ -18,4 +18,4 @@ Kindly follow these instructions to set up and run this application on your loca
 
 6. Follow the readme [here](https://github.com/mPharma/qa-take-home-test) to set up and run the Data Test App on your local machine 
 
-7. Run the jar file found in `data-test-app/res`
+7. Run the data-test-app jar file in `data-test-app/res`
