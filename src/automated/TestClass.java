@@ -12,7 +12,7 @@ public class TestClass {
 
     public static void main(String[] args) {
         // declaration and instantiation of objects/variables
-		System.setProperty("webdriver.chrome.driver","/usr/local/bin/chromedriver");
+//		System.setProperty("webdriver.chrome.driver","/usr/local/bin/chromedriver");
 		//comment the above line and uncomment below line to use on Windows
 		//System.setProperty("webdriver.chrome.driver","E:\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
